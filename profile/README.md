@@ -1,70 +1,133 @@
-<div >
-<img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" width="100%" align="center" />
-</div>
 <div align="center">
-  <h1>Invariant Continuum Technologies</h1>
-  <h3>
-     Building the immune system for the autonomous age.
-  </h3>
   
-  <p>
-    <em>Ensuring <b><code>Intent == Reality</code></b> across humans, software, and organizations.</em>
-  </p>
-  <p>
-    <a href="https://invariantcontinuum.com">Our Homepage</a>
-    <a href="mailto:contact@invariantcontinuum.com?Subject=From%20A%20Curious%20Github%20Visitor">Get In Touch</a>
-  </p>
-      <a href="https://www.linkedin.com/company/invariantcontinuum">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
-    </a>
-  <p>
-      <img src="https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white" alt="No AI" />
-  </p>
+# 👋 Hi, I'm Dany
+
+### 💻 Software Developer | 🚀 DevOps Engineer | 🤖 AI Enthusiast
+
+<p>
+  <em>Building the future, one commit at a time.</em>
+</p>
+
+<p>
+  <a href="https://github.com/danycrafts">
+    <img src="https://img.shields.io/github/followers/danycrafts?style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### ⚛️ The Core Mission
+## 🚀 About Me
 
-At **Invariant Continuum**, we address the fundamental divergence in complex adaptive systems: **Reality continuously diverges from Intent.**
+I'm a passionate **Software Developer** and **DevOps Engineer** with expertise in building scalable, reliable, and innovative solutions. I love exploring the intersection of software engineering, cloud infrastructure, and artificial intelligence.
 
-We build the governance and verification infrastructure that ensures your intent matches reality across requirements, software implementation, operational data, documentation, and compliance frameworks. We make the gap between *design* and *execution* observable, measurable, and governable.
-
-## Disclaimer: 
-  <img src="https://github.com/invariantcontinuum/.github/blob/main/assets/disclaimer_lg.png" alt="Invariant Continuum Technologies Logo" height="250" align="start" />
----
-
-### 📉 The Problem: Structural Entropy at Machine Speed
-
-As AI accelerates software development velocity by **3-5x**, the gap between "what we designed" and "what actually runs" is widening faster than human oversight can manage. This divergence is the dominant source of modern system failures.
-
-* **The "AI Slop" Crisis:** AI code assistants generate syntactically correct but **architecturally incoherent** code. This creates "slop" that bypasses design patterns, violates layer boundaries, and introduces shadow dependencies invisible to traditional linters.
-* **The Unseen Debt:** This isn't just technical debt; it is **structural entropy**. It renders systems unmaintainable, unauditable, and unreliable.
-* **Reactive vs. Proactive:** Existing tooling only detects symptoms after the damage has occurred. We aim to stop the drift before it becomes a failure.
+- 🔭 Currently working on multiple AI-powered projects
+- 🌱 Always learning new technologies and best practices
+- 💡 Passionate about open-source and community-driven development
+- 🛠️ Advocate for clean code, automation, and DevOps culture
 
 ---
 
-### 🔭 Where We Operate
+## 🛠️ Tech Stack
 
-Our technology transforms static models into reliable, active orchestration substrates. We apply this structural integrity layer to distinct high-stakes domains:
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
 
-| Domain | The Challenge | The Invariant Solution |
-| :--- | :--- | :--- |
-| **🏗️ Software Engineering** | AI-generated code drift and shadow dependencies. | Enforcing architectural coherence and preventing layer violations at the commit level. |
-| **🤖 Autonomous Systems** | AI agents violating safety constraints. | Runtime verification to ensure agent behavior never drifts from safety protocols. |
+### Frontend & Backend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+### Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
 ---
 
-### 🛡️ Our Philosophy: Unapologetic Specialization
+## 🌐 My Organizations & Live Projects
 
-We are engineering for a specific class of problems and a specific caliber of user.
+I maintain several GitHub organizations focused on different domains. Check out their live landing pages:
 
-**Governance is not a commodity; it is a discipline.**
-In the niche market of high-assurance systems, the value proposition must be unequivocal to the expert, even if the functionality is opaque to the casual observer. We do not dilute our tooling for the sake of generalist appeal.
+### 🤖 AI & Machine Learning
 
-While we value elegance, **we prioritize the specialized functionality required to govern complexity.** Our tools are designed for the architects, auditors, and engineers who understand that true reliability requires deep, granular control.
+| Organization | Description | Live Site |
+|:-------------|:------------|:---------:|
+| **🧠 CodeGraft AI** | Structural integrity for modern software — ensuring architectural coherence in high-velocity engineering teams | [🌐 Visit](https://codegraftai.github.io/codegraftai) |
+| **📚 Inspire Learning AI** | AI-powered educational platforms and content generation — transforming the way we learn and teach | [🌐 Visit](https://inspirelearningai.github.io/inspirelearningai) |
+| **🕸️ FactWeaver AI** | Truth-verification engine and knowledge synthesis — ensuring truth in the age of synthetic information | [🌐 Visit](https://factweaverai.github.io/factweaverai) |
+| **🌾 Peasants AI** | Democratizing AI for the community and small-scale developers — bringing powerful AI tools to everyone | [🌐 Visit](https://peasantsai.github.io/peasantsai) |
+| **🤖 Orthyx AI** | Intelligent automation and robotic process optimization — streamlining operations with advanced AI | [🌐 Visit](https://orthyxai.github.io/orthyxai) |
+
+### ☁️ Cloud & Infrastructure
+
+| Organization | Description | Live Site |
+|:-------------|:------------|:---------:|
+| **🦉 Hyperscaler Owl** | Cloud infrastructure management and automation — simplifying hyperscale deployments for modern enterprises | [🌐 Visit](https://hyperscalerowl.github.io/hyperscalerowl) |
+| **⚛️ Invariant Continuum** | Robust, formally verified software systems — building the foundation of reliable and mathematical software engineering | [🌐 Visit](https://invariantcontinuum.github.io/invariantcontinuum) |
+
+### 🚗 Automotive & IoT
+
+| Organization | Description | Live Site |
+|:-------------|:------------|:---------:|
+| **🚙 BimmerCodes** | Democratizing vehicle intelligence for BMW enthusiasts — bridging the gap between modern BMW owners and complex automotive electronics | [🌐 Visit](https://bimmercodes.github.io/bimmercodes) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danycrafts&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danycrafts&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://github.com/danycrafts">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contact@danycrafts.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/danycrafts">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <small>© 2026 Invariant Continuum Technologies. The Structural Integrity Layer for Complex Autonomous Systems.</small>
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
 </div>
