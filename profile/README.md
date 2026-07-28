@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/danycrafts">
-    <img src="https://img.shields.io/github/followers/danycrafts?style=social" alt="GitHub Followers" />
+  <a href="https://github.com/thecsdoctor">
+    <img src="https://img.shields.io/github/followers/thecsdoctor?style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -103,9 +103,9 @@ I maintain several GitHub organizations focused on different domains. Check out 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danycrafts&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thecsdoctor&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danycrafts&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecsdoctor&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -113,13 +113,13 @@ I maintain several GitHub organizations focused on different domains. Check out 
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/danycrafts">
+  <a href="https://github.com/thecsdoctor">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contact@danycrafts.com">
+  <a href="mailto:contact@thecsdoctor.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/danycrafts">
+  <a href="https://linkedin.com/in/thecsdoctor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
