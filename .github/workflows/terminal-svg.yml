@@ -34,12 +34,12 @@ jobs:
 
       - name: commit if changed
         run: |
-          if git diff --quiet assets/terminal.svg; then
+          if git diff --quiet assets/terminal.svg assets/danysh.txt; then
             echo "no change — nothing to commit"
             exit 0
           fi
           git config user.name "thecsdoctor"
           git config user.email "daniyal.ibrahim10@gmail.com"
-          git add assets/terminal.svg
+          git add assets/terminal.svg assets/danysh.txt
           git commit -m "terminal.svg: refresh live status data"
           git push
