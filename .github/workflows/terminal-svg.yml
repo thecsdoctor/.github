@@ -1,0 +1,45 @@
+name: terminal-svg
+
+# Regenerates assets/terminal.svg every 8 hours with fresh live data
+# (GitHub activity, dany.sh visitor counter, Berlin weather, latest dev.to
+# post) and commits it if anything changed. Run manually anytime via
+# workflow_dispatch.
+
+on:
+  schedule:
+    - cron: "23 */8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: terminal-svg
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyfiglet
+
+      - name: regenerate terminal.svg
+        run: python assets/gen_terminal_svg.py --live
+
+      - name: commit if changed
+        run: |
+          if git diff --quiet assets/terminal.svg; then
+            echo "no change — nothing to commit"
+            exit 0
+          fi
+          git config user.name "thecsdoctor"
+          git config user.email "daniyal.ibrahim10@gmail.com"
+          git add assets/terminal.svg
+          git commit -m "terminal.svg: refresh live status data"
+          git push
