@@ -6,9 +6,10 @@ name: terminal-svg
 # workflow_dispatch.
 
 on:
-  schedule:
-    - cron: "23 */8 * * *"
-  workflow_dispatch:
+ workflow_dispatch:
+ # schedule:
+ #   - cron: "23 */8 * * *"
+ # workflow_dispatch:
 
 permissions:
   contents: write
