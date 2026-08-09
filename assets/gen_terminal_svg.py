@@ -229,7 +229,7 @@ TYPE_S = 0.045        # per char
 CMD_PAUSE = 0.4
 OUT_GAP = 0.08
 BANNER_HOLD = 0.8     # banner appears, then typing starts
-END_HOLD = 4.5
+END_HOLD = 180.0  # hold the finished frame ~3 min before the loop repeats
 
 
 def build_svg(transcript):
@@ -249,7 +249,7 @@ def build_svg(transcript):
     total = t + END_HOLD
 
     def kt(x):
-        return f"{x / total:.4f}"
+        return f"{x / total:.5f}"
 
     banner_fs = 17
     banner_cw = banner_fs * 0.602
