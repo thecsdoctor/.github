@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="390" viewBox="0 0 840 390" font-family="ui-monospace,SFMono-Regular,'DejaVu Sans Mono',Menlo,Consolas,monospace" role="img" aria-label="terminal: thecsdoctor — hey, i'm dany — curl https://dany.sh">
+<rect width="840" height="390" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect width="840" height="36" rx="10" fill="#161b22"/>
+<rect y="26" width="840" height="10" fill="#161b22"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="18" r="6" fill="#27c93f"/>
+<text x="420.0" y="22" font-size="12" fill="#8b949e" text-anchor="middle">dany@thecsdoctor: ~</text>
+
+<g fill="#00ff41" font-size="14" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.4s" fill="freeze" repeatCount="1" calcMode="discrete"/>
+<text x="22" y="64" xml:space="preserve">████████╗██╗  ██╗███████╗ ██████╗███████╗██████╗  ██████╗  ██████╗████████╗ ██████╗ ██████╗</text>
+<text x="22" y="80" xml:space="preserve">╚══██╔══╝██║  ██║██╔════╝██╔════╝██╔════╝██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗</text>
+<text x="22" y="96" xml:space="preserve">   ██║   ███████║█████╗  ██║     ███████╗██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝</text>
+<text x="22" y="112" xml:space="preserve">   ██║   ██╔══██║██╔══╝  ██║     ╚════██║██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗</text>
+<text x="22" y="128" xml:space="preserve">   ██║   ██║  ██║███████╗╚██████╗███████║██████╔╝╚██████╔╝╚██████╗   ██║   ╚██████╔╝██║  ██║</text>
+<text x="22" y="144" xml:space="preserve">   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝</text>
+</g>
+<clipPath id="clip0"><rect x="22" y="166.5" width="0" height="21"><animate attributeName="width" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0962;0.1028;0.1094;0.1161;0.1227;0.1293;0.1359;1" values="0;96.0;104.7;113.5;122.2;130.9;139.7;148.4;148.4"/></rect></clipPath>
+<clipPath id="clip2"><rect x="22" y="208.5" width="0" height="21"><animate attributeName="width" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2201;0.2267;0.2333;0.2399;0.2465;0.2532;0.2598;0.2664;0.2730;0.2796;0.2862;0.2928;0.2995;0.3061;0.3127;0.3193;0.3259;0.3325;0.3391;0.3458;0.3524;0.3590;0.3656;0.3722;1" values="0;96.0;104.7;113.5;122.2;130.9;139.7;148.4;157.1;165.9;174.6;183.3;192.0;200.8;209.5;218.2;227.0;235.7;244.4;253.1;261.9;270.6;279.3;288.1;296.8;296.8"/></rect></clipPath>
+<text x="22" y="181" font-size="14.5" xml:space="preserve" clip-path="url(#clip0)"><tspan fill="#8b949e">dany@gh:~$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text x="22" y="202" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1900" values="0;1"/>dany</text>
+<text x="22" y="223" font-size="14.5" xml:space="preserve" clip-path="url(#clip2)"><tspan fill="#8b949e">dany@gh:~$ </tspan><tspan fill="#e6edf3">curl -s https://dany.sh</tspan></text>
+<text x="22" y="244" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4263" values="0;1"/>Daniyal Ibrahim — DevOps engineer &amp; consultant, Berlin</text>
+<text x="22" y="265" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4420" values="0;1"/>software developer by profession — still one by passion</text>
+<text x="22" y="286" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4576" values="0;1"/>AWS certified: DevOps Pro · Developer Associate · Cloud Practitioner</text>
+<text x="22" y="307" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4732" values="0;1"/>github   https://github.com/thecsdoctor</text>
+<text x="22" y="328" font-size="14.5" fill="#3fb950" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4889" values="0;1"/>web      https://dany.sh   (try: curl https://dany.sh)</text>
+<text x="22" y="349" font-size="14.5" fill="#8b949e" xml:space="preserve" opacity="0"><animate attributeName="opacity" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5189" values="0;1"/>dany@gh:~$ </text>
+<rect width="8.7" height="17.5" fill="#00ff41"><animate attributeName="x" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0962;0.1359;0.1900;0.2201;0.3722;0.4263;0.4420;0.4576;0.4732;0.4889;0.5189" values="22;118.0;170.4;22.0;118.0;318.8;22.0;22.0;22.0;22.0;22.0;118.0"/><animate attributeName="y" dur="8.315s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0962;0.1359;0.1900;0.2201;0.3722;0.4263;0.4420;0.4576;0.4732;0.4889;0.5189" values="166.5;181.0;181.0;202.0;223.0;223.0;244.0;265.0;286.0;307.0;328.0;349.0"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0"/></rect>
+</svg>

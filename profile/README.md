@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 👋 Hi, I'm Dany
+
+<img src="../assets/terminal.svg" alt="thecsdoctor — hey, i'm dany — find me at dany.sh or curl https://dany.sh" width="840" />
 
 ### 💻 Software Developer | 🚀 DevOps Engineer | 🤖 AI Enthusiast
 
@@ -9,6 +9,9 @@
 </p>
 
 <p>
+  <a href="https://dany.sh">
+    <img src="https://img.shields.io/badge/dany.sh-00ff41?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="dany.sh" />
+  </a>
   <a href="https://github.com/thecsdoctor">
     <img src="https://img.shields.io/github/followers/thecsdoctor?style=social" alt="GitHub Followers" />
   </a>
@@ -113,6 +116,9 @@ I maintain several GitHub organizations focused on different domains. Check out 
 ## 🔗 Connect With Me
 
 <p>
+  <a href="https://dany.sh">
+    <img src="https://img.shields.io/badge/dany.sh-00ff41?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="dany.sh" />
+  </a>
   <a href="https://github.com/thecsdoctor">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -122,6 +128,10 @@ I maintain several GitHub organizations focused on different domains. Check out 
   <a href="https://linkedin.com/in/thecsdoctor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p>
+  <code>curl https://dany.sh</code>
 </p>
 
 ---
