@@ -26,3 +26,10 @@
    Curriculum vitae
      english   curl dany.sh/en/cv (browser: https://dany.sh/en/cv)
      deutsch   curl dany.sh/de/cv (browser: https://dany.sh/de/cv)
+
+   Easter eggs
+     reise     https://dany.sh/reise · follow a hello to this server
+     ip        https://dany.sh/ip · the IP endpoint
+     whereami  https://dany.sh/whereami · location + weather JSON
+     visitors  https://dany.sh/visitors · peek at the hello counter
+     ping      https://dany.sh/ping · a tiny pong from this server
